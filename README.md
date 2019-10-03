@@ -6,12 +6,19 @@ Script:
 "file name: R_Script_DESeq2_TS1015.sh" - R commands used to perform DESeq2 on the CEL-Seq2 dataset
 
 This script is divided into different parts, outlined below:
+
 Part a) 	import data into R, set up experimental design formula 
+
 Part b)	transform count data (rlog stabilization and variance stabiliazation)
+
 Part c) 	LRT analysis in Deseq2
-Part d)	PCA
+
+Part d)	  PCA
+
 Part e) 	heatmap of differentially expressed genes #previously denoted as f
+
 Part f) 	pariwise comparisons between 1 and 9 hpe for each light regime #prev h
+
 Part g) 	plot counts (log2) for genes of interest
 
 OUTPUT_Files:
