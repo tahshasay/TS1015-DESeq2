@@ -6,6 +6,8 @@ Script:
 "file name: R_Script_DESeq2_TS1015.sh" - R commands used to perform DESeq2 on the CEL-Seq2 dataset
 
 
+
+
 #This script is divided into different parts, outlined below:
 
 Part a) 	import data into R, set up experimental design formula 
