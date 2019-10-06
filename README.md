@@ -1,5 +1,7 @@
 # TS1015-DESeq2
 
+#This repository is supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+
 #This folder contains the files and scripts used to perform DESeq2 on the CEL-Seq2 data.
 
 Script:
