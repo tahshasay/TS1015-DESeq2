@@ -2,7 +2,8 @@
 
 #These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
-#This folder contains the files and scripts used to perform DESeq2 on the CEL-Seq2 data.
+#This folder contains the files and scripts used to perform DESeq2 (Love et al., 2014) on the CEL-Seq2 data. 
+
 
 Script:
 "file name: R_Script_DESeq2_TS1015.sh" - R commands used to perform DESeq2 on the CEL-Seq2 dataset
@@ -38,3 +39,7 @@ Pairwise comparisons between 1 and 9 hpe are represented in the venn diagrams in
 The PCA is in Figure S2.
 
 The plot counts is in Figure 4b.
+
+Reference
+
+Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. bioRxiv, 15(12). doi:10.1186/s13059-014-0550-8
