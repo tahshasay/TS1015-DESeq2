@@ -31,7 +31,7 @@ Part g) 	plot counts (log2) for genes of interest
 
 
 INPUT_Files:
-All transcriptome data and the counts data (renamed) from this study are available in the NCBI GEO database under accession number GSE130274.
+All transcriptome data and the counts data (renamed) from this study are available in the NCBI GEO database under accession number GSE130274. The raw counts file (prior to updating sample names) is named as: TS1015_L001_L002_counting_report_tidy_NoERCC_NolncRNAs_NoBact_2016.02.08.txt. 
 
 
 OUTPUT_Files:
