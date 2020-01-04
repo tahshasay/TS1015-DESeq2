@@ -6,8 +6,7 @@
 # bioinformatic analysis of Cel-seq2 data using DESeq2 (Love et al., 2014)
 #
 #Reference
-#Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. 
-#bioRxiv, 15(12). doi:10.1186/s13059-014-0550-8
+#Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12), 550. doi:10.1186/s13059-014-0550-8
 #
 # This script was customised based on the DESeq2 manual and vignette (2014 + 2016 v)
 # http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf
