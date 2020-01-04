@@ -1,10 +1,7 @@
 # TS1015-DESeq2
 
 These data and scripts are supplement to:
-
-Say & Degnan (in 1st review) Molecular and behavioural evidence that interdependent photo- and chemo-sensory systems regulate larval settlement in a marine sponge. Molecular Ecology. 
-
-A preprint is available at: Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+Say, T. E., & Degnan, S. M. (2019). Molecular and behavioural evidence that interdependent photo - and chemosensory systems regulate larval settlement in a marine sponge. Molecular Ecology, 00, 1-15. doi:10.1111/mec.15318
 
 
 #This folder contains the files and scripts used to perform DESeq2 (Love et al., 2014) on the CEL-Seq2 data. 
@@ -31,6 +28,11 @@ Part e) 	heatmap of differentially expressed genes #previously denoted as f
 Part f) 	pariwise comparisons between 1 and 9 hpe for each light regime #prev h
 
 Part g) 	plot counts (log2) for genes of interest
+
+
+INPUT_Files:
+All transcriptome data and the counts data (renamed) from this study are available in the NCBI GEO database under accession number GSE130274.
+
 
 OUTPUT_Files:
 "TS1015_DESeq2_rlogMat_Blind_2016.11.21" - rlog stabilised transformed counts for all genes in this CEL-Seq dataset.
