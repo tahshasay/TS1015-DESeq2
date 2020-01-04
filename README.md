@@ -49,4 +49,4 @@ The plot counts is in Figure 4b.
 
 Reference
 
-Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. bioRxiv, 15(12). doi:10.1186/s13059-014-0550-8
+Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12), 550. doi:10.1186/s13059-014-0550-8
